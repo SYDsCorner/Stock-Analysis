@@ -6,7 +6,12 @@
 
    In this challenge, I had to refactor the Module 2 solution code to make the code more efficient, use less memory, improve the code, and make it easier to read and understand. Also, I measured the perfomance by running the stock analysis for both the original code and the refactored code and comparing the timer results. 
  
+## Resources
+- Software:
+   - Excel VBA (Visual Basic for Applications)
 
+- Data source: 
+   - [green_stocks.xlsm](https://github.com/SYDsCorner/Stock-Analysis/blob/main/green_stocks.xlsm)
 
 ## Results
 
